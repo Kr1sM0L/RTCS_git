@@ -1,0 +1,13 @@
+# Скомпилированные файлы
+*.out
+*.o
+a.out
+
+# Исполняемые файлы
+enter_text
+redirect
+welcome
+welcome_gcc
+
+# Временные файлы
+*.txt~
